@@ -1,5 +1,6 @@
 build/
 jest-coverage/
 node_modules/
+.next/
 .idea/
 .DS_Store
