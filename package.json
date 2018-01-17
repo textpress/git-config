@@ -1,0 +1,9 @@
+{
+    "name": "git-config",
+    "description": "Textpress's git config",
+    "author": "textpress",
+    "scripts": {
+        "ci-build": "true",
+        "ci-test": "true",
+    }
+}
