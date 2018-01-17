@@ -4,6 +4,6 @@
     "author": "textpress",
     "scripts": {
         "ci-build": "true",
-        "ci-test": "true",
+        "ci-test": "true"
     }
 }
