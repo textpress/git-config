@@ -1,5 +1,3 @@
-build/
-jest-coverage/
 node_modules/
 .*/
 
